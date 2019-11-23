@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PurikoneBot", "PurikoneBot\PurikoneBot.csproj", "{51C28C83-0FD4-4A28-8A38-56709F66F54E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51C28C83-0FD4-4A28-8A38-56709F66F54E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C28C83-0FD4-4A28-8A38-56709F66F54E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C28C83-0FD4-4A28-8A38-56709F66F54E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C28C83-0FD4-4A28-8A38-56709F66F54E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E4A7384-90C3-41A7-BCB5-AEE9BFB72362}
+	EndGlobalSection
+EndGlobal

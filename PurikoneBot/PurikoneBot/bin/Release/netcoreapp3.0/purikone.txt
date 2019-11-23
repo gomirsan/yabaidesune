@@ -1,0 +1,6 @@
+tokenID=NjM3NzQ4ODQzNDUwMjA0MjEx.XdkovA.CZoduIcVqCF99vN8629-EWgjryc
+BOSS1=ゴブリングレート
+BOSS2=ライライ
+BOSS3=ニードルクリーパー
+BOSS4=サイクロプス
+BOSS5=レサトパルト
